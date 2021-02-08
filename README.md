@@ -3,6 +3,8 @@
 This project is for filtering US coin using Arduino and reflective IR sensors.
 This is a final project for CS 59000 Embedded System.
 
+![demo](https://github.com/Ronaldzzzzz/coin-machine/blob/main/img/demo.gif)
+
 ## Features
 
 * Sorting
@@ -29,3 +31,4 @@ This is a final project for CS 59000 Embedded System.
 
 ## Architecture
 
+![architecture](https://github.com/Ronaldzzzzz/coin-machine/blob/main/img/coinMachine.png)
